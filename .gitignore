@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv*/
+.env
+runs/
+datasets/*/
+!datasets/README.md
+!datasets/MANIFEST.json
+*.pdf
+.DS_Store

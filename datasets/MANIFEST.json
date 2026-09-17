@@ -1,0 +1,287 @@
+{
+  "README.md": {
+    "bytes": 8241,
+    "sha256": "6a210f4fe07dfd301377e45ae741c1812065e23860286059628c58e69c1fd187",
+    "rows": null
+  },
+  "bns_bnss_bsa/bns_bnss_bsa_combined_clean.jsonl": {
+    "bytes": 3486063,
+    "sha256": "b63fe960642e68fdcbfc3d65a8c2ac8781147382450bd4ed38dd9d15d4735595",
+    "rows": 6354
+  },
+  "bns_bnss_bsa/bns_qa.jsonl": {
+    "bytes": 1200695,
+    "sha256": "8e43ae62bf740107ee904916f79ef88c56e29f1002e7d268ad27bc676210c436",
+    "rows": 2148
+  },
+  "bns_bnss_bsa/bnss_qa.jsonl": {
+    "bytes": 1775617,
+    "sha256": "94035efbf07f15236722ef92652f168be4f3f63cd2baf3e643c8cf89e4fddfed",
+    "rows": 3186
+  },
+  "bns_bnss_bsa/bsa_qa.jsonl": {
+    "bytes": 516323,
+    "sha256": "f4513b3c6c86af720387c830ae669a3cd4014691b286f6360f2d6bc2a9e3421f",
+    "rows": 1020
+  },
+  "courtnav_rag/courtnav_rag_test.csv": {
+    "bytes": 67747,
+    "sha256": "6897520aaf149cc38a967e3f2c11b9dca5175711f5a49d8e0f4bc30e03dbe2b3",
+    "rows": 21
+  },
+  "courtnav_rag/source_docs/doc1_special_power_of_attorney.pdf": {
+    "bytes": 45177,
+    "sha256": "c51423f48be80d5b23215e429f1036afc23acbbc49fd34b577226e84170be32c",
+    "rows": null
+  },
+  "courtnav_rag/source_docs/doc2_indian_contract_act.pdf": {
+    "bytes": 568075,
+    "sha256": "d756d45a58c4cd8440e70a0189ea1fda9d7c5dfcdd6ef31a5f2ecd9cb209c59d",
+    "rows": null
+  },
+  "courtnav_rag/source_docs/doc3_drt_application.pdf": {
+    "bytes": 242097,
+    "sha256": "55c5b6434256374d53ae124ef89cec36c8845ee0cd49e1aec80767c5180fb26c",
+    "rows": null
+  },
+  "courtnav_rag/source_docs/doc4_civil_revision_petition.pdf": {
+    "bytes": 121801,
+    "sha256": "5a13ee0ab1b72143242dd9ee1a341c0c27803a947737399978cc8842e01293f5",
+    "rows": null
+  },
+  "il_tur/bail/dev_all/0000.parquet": {
+    "bytes": 37938112,
+    "sha256": "9d57f7b614fbc561c5ee6431c011f78b8dd55fed8add0f92e4b8ca93f62fb315",
+    "rows": 17707
+  },
+  "il_tur/bail/dev_specific/0000.parquet": {
+    "bytes": 32911917,
+    "sha256": "28740ae1dfe5e2ccb8a204e2a4d07a02ffd32c4405f9fb7c93c572480351f614",
+    "rows": 15929
+  },
+  "il_tur/bail/test_all/0000.parquet": {
+    "bytes": 74911059,
+    "sha256": "fa5cb50eb9de48d34c2a74e4ca5375133cceec7de09b8d8ff2aac5e38ec6a68e",
+    "rows": 35400
+  },
+  "il_tur/bail/test_specific/0000.parquet": {
+    "bytes": 65557936,
+    "sha256": "a9bd2d24f53e9605c53bb940184633b763884843181bbdf76b581c77e4c89ae5",
+    "rows": 36579
+  },
+  "il_tur/bail/train_all/0000.parquet": {
+    "bytes": 163508172,
+    "sha256": "ba4c69e8225eaea492b7c378b6d38d52fee1ce349c66c448f64ee4ab32203349",
+    "rows": 75101
+  },
+  "il_tur/bail/train_all/0001.parquet": {
+    "bytes": 99114795,
+    "sha256": "16c3fa6fff0ed66778b22207bd29712201e760351e9fad560e565a972e90665c",
+    "rows": 48641
+  },
+  "il_tur/bail/train_specific/0000.parquet": {
+    "bytes": 140930997,
+    "sha256": "fbd3dd3d0d9cff9cc6e5ff4b7f2f1b0488ab5209fc0eafc912b31b66c4d06db3",
+    "rows": 77210
+  },
+  "il_tur/bail/train_specific/0001.parquet": {
+    "bytes": 80898053,
+    "sha256": "96ac98d2f90d8fc762e459ecb819e3c25c4259b5a2a3ed3eaecfae5ac5aed6bc",
+    "rows": 47131
+  },
+  "il_tur/cjpe/expert/0000.parquet": {
+    "bytes": 1804199,
+    "sha256": "402c37a6c00b228ff4c5a11aa941aaeaceffdb9d4c9cd58e29bf9cc2066f27e9",
+    "rows": 56
+  },
+  "il_tur/cjpe/multi_dev/0000.parquet": {
+    "bytes": 10802892,
+    "sha256": "118ade63c405be15ae09816e5156b2b97ac55a7afd079c6bb60d9d632b7dfc23",
+    "rows": 994
+  },
+  "il_tur/cjpe/multi_train/0000.parquet": {
+    "bytes": 234236486,
+    "sha256": "60521a5f669c8352c6c3c6da59fcac8c550f0a25fa0b49472aa93852d5dbd5d1",
+    "rows": 24920
+  },
+  "il_tur/cjpe/multi_train/0001.parquet": {
+    "bytes": 49479801,
+    "sha256": "7cdefb092215e742edc81f9d49f116b3703e7827b0bfffbd14f2bb1ee74ce3fd",
+    "rows": 7385
+  },
+  "il_tur/cjpe/single_dev/0000.parquet": {
+    "bytes": 27622966,
+    "sha256": "b365faebda148cf5560555445683e2bb971e629ffcf8546da5de53739ca69ae9",
+    "rows": 2511
+  },
+  "il_tur/cjpe/single_train/0000.parquet": {
+    "bytes": 56421032,
+    "sha256": "0d878add7371ad0d9ed41f59b0753d6c45b5fb6ebaec78b2d6284fe2a884f4b3",
+    "rows": 5082
+  },
+  "il_tur/cjpe/test/0000.parquet": {
+    "bytes": 16839899,
+    "sha256": "10cddb021db95645799c22a7db000234bde5f7657d54e5c8e2c70688b0a36efc",
+    "rows": 1517
+  },
+  "il_tur/lmt/acts/0000.parquet": {
+    "bytes": 857493,
+    "sha256": "3e404a2029a6a9c5e18770c4585f52e117404b8edf3cfa4c0ff04ab608945b96",
+    "rows": 4036
+  },
+  "il_tur/lmt/cci_faq/0000.parquet": {
+    "bytes": 714567,
+    "sha256": "3632b0bf1878ec419c263a7b07fe5c67f8bdc49c26547ff02f4f44c5d3c567e0",
+    "rows": 1460
+  },
+  "il_tur/lmt/ip/0000.parquet": {
+    "bytes": 300707,
+    "sha256": "026d56a29bccba7030acd0aa14c954303cc169c954feefa8306f0ef24cb1a3cf",
+    "rows": 1020
+  },
+  "il_tur/lner/fold_1/0000.parquet": {
+    "bytes": 583630,
+    "sha256": "ad796e62e3c619c488b8d6e05d69ed644f32cc47c99dbe228ab2932c38295651",
+    "rows": 35
+  },
+  "il_tur/lner/fold_2/0000.parquet": {
+    "bytes": 588884,
+    "sha256": "884a4fb83ef6ebe766094d50a5fda2a1e6d293efd93e86fa2d4bcf2fb537bd08",
+    "rows": 35
+  },
+  "il_tur/lner/fold_3/0000.parquet": {
+    "bytes": 612208,
+    "sha256": "aba1588f7367e038269a4fcb01a777a5bb20529e2c0ec4524a21f5c3336dd21d",
+    "rows": 35
+  },
+  "il_tur/lsi/dev/0000.parquet": {
+    "bytes": 38615535,
+    "sha256": "cbcbfda6ba1430d229a15099e1ef7a777049488e8a6227b15c1803b52b91b560",
+    "rows": 10181
+  },
+  "il_tur/lsi/statutes/0000.parquet": {
+    "bytes": 22511,
+    "sha256": "8e351cd2d07fe020c22e47f97fdd566e3ca3b8ce06049ab905960828bc0c5829",
+    "rows": 100
+  },
+  "il_tur/lsi/test/0000.parquet": {
+    "bytes": 48307271,
+    "sha256": "7b1d4938417bce125388ba5979a2224ae5f2f66783188f90a12bb19ddcd523d1",
+    "rows": 13019
+  },
+  "il_tur/lsi/train/0000.parquet": {
+    "bytes": 145199662,
+    "sha256": "b2d143ed3d454f526ed56cdec8967924360ecd28fda55ce84ee092423c594b9b",
+    "rows": 42750
+  },
+  "il_tur/pcr/dev_candidates/0000.parquet": {
+    "bytes": 25059524,
+    "sha256": "d3cdb8abb8e411375b8c8ba1a9b74404ddf41d7015b991614df2028bb606100f",
+    "rows": 1023
+  },
+  "il_tur/pcr/dev_queries/0000.parquet": {
+    "bytes": 2826506,
+    "sha256": "e5e8c643e56ec00bec1ae6294d9b644ea33b3d2b86ef10d3ebce30917a634cc9",
+    "rows": 118
+  },
+  "il_tur/pcr/test_candidates/0000.parquet": {
+    "bytes": 34245293,
+    "sha256": "97766b910c7ee67ac0f1592fc1d442e79f1979b550a95ebf487dda48e66bcf85",
+    "rows": 1727
+  },
+  "il_tur/pcr/test_queries/0000.parquet": {
+    "bytes": 4453496,
+    "sha256": "41ae541fc6a95f244875127252d5f1d792be1947618fedb79fb9d36878c4a86d",
+    "rows": 237
+  },
+  "il_tur/pcr/train_candidates/0000.parquet": {
+    "bytes": 76963507,
+    "sha256": "c869a9d660d1b8206b8bfafe60621fee3ad851a031603ed6800329304b1e437c",
+    "rows": 4320
+  },
+  "il_tur/pcr/train_queries/0000.parquet": {
+    "bytes": 15954756,
+    "sha256": "1c08bd59a80a14f09fd099f210f303b983f6822973f9c445c316d073ecc2087a",
+    "rows": 827
+  },
+  "il_tur/rr/CL_dev/0000.parquet": {
+    "bytes": 165214,
+    "sha256": "6dea8885ac764fee65ede5b641a7789af2ae2ed96db6b0651c6cf5d71b0d8e5e",
+    "rows": 5
+  },
+  "il_tur/rr/CL_test/0000.parquet": {
+    "bytes": 152361,
+    "sha256": "f9001eb616fdb183fb94bfe78e2a76a74446779c794ff1ccc2e284b61d60e993",
+    "rows": 5
+  },
+  "il_tur/rr/CL_train/0000.parquet": {
+    "bytes": 1085501,
+    "sha256": "47abddc8d760bfddd71a9d42912de9b64ee67bdee281116873979bdf06b23dad",
+    "rows": 40
+  },
+  "il_tur/rr/IT_dev/0000.parquet": {
+    "bytes": 93548,
+    "sha256": "f43e28a157674f83dcc2b8ec066ef4874df0463ca8b55bbd5c173ed9c1f3e525",
+    "rows": 5
+  },
+  "il_tur/rr/IT_test/0000.parquet": {
+    "bytes": 103560,
+    "sha256": "60a1c1e43911fa8271428bcd193fc342c91171c581012c56e3d416706a8d5197",
+    "rows": 5
+  },
+  "il_tur/rr/IT_train/0000.parquet": {
+    "bytes": 632543,
+    "sha256": "f73be6228de6376df19012145b5c16831b073bad7ede6f5adcddfe82f3f1a643",
+    "rows": 40
+  },
+  "il_tur/summ/test/0000.parquet": {
+    "bytes": 1661957,
+    "sha256": "6708ac83949dc7f0a616ff8cc0c8b516da9b81ec5c5e95e7fee15ef37f2610d9",
+    "rows": 100
+  },
+  "il_tur/summ/train/0000.parquet": {
+    "bytes": 106506362,
+    "sha256": "543a17d92ca784c2fa2a128cb1a5e5bd049e430bfd232669771bffa221bcbe03",
+    "rows": 7030
+  },
+  "indiafinbench/indiafinbench_qa.csv": {
+    "bytes": 305802,
+    "sha256": "2479d3e30eb46158da479a8ac4d12471256b53888d6ddb084f4fd2614cc5b278",
+    "rows": 406
+  },
+  "indiafinbench/indiafinbench_qa.json": {
+    "bytes": 493387,
+    "sha256": "8c7c210fa3d0b572aa7c27068cf8b8de855698c8d45f08e28739be28eedc3b85",
+    "rows": 406
+  },
+  "indiafinbench/judge_audit_log.csv": {
+    "bytes": 378562,
+    "sha256": "d83932ada2804d217ff4cb71969973ed8d43d294ca64e121819a1126ef825dba",
+    "rows": 874
+  },
+  "indiclegalqa/indiclegalqa_original.json": {
+    "bytes": 4969678,
+    "sha256": "161771c95110027f265593642279736405dbd7cb21c09d806a53ce9a925c67f8",
+    "rows": 10002
+  },
+  "indiclegalqa/indiclegalqa_revised.json": {
+    "bytes": 4997539,
+    "sha256": "ab4bcd1168d7d22c3d616151f97a0e1f35d092729d7f8d7fcf812aa9dd588bd0",
+    "rows": 10000
+  },
+  "law_entrance_exams/clat_pg.parquet": {
+    "bytes": 181011,
+    "sha256": "5b639049f733f4992c7be85d7d608a389b45899cc12ef63bd9477c0405c9fb43",
+    "rows": 814
+  },
+  "law_entrance_exams/clat_ug.parquet": {
+    "bytes": 976811,
+    "sha256": "4c8b650c6bb3b22163950d720a07a49077a0152377179284319564362f377e25",
+    "rows": 3154
+  },
+  "law_entrance_exams/djs_dhjs.parquet": {
+    "bytes": 462407,
+    "sha256": "c6ee7656d4b22ef5f620a4a348646239374a399bb9ff1a6625637dcdf06107e4",
+    "rows": 2250
+  }
+}

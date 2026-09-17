@@ -1,0 +1,8 @@
+openai>=1.40
+tiktoken>=0.7
+numpy>=1.26
+matplotlib>=3.7
+
+# Berkeley Function-Calling Leaderboard — only needed for the uc1_bfcl suite.
+# Installed separately in its own venv; see harness/bfcl/.
+# bfcl-eval
